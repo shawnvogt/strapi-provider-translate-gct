@@ -1,5 +1,7 @@
 # Google Cloud Translate provider for Strapi Translate Plugin
 
+This repo is archived and no longer maintained
+
 Configure the provider through the pluginOptions:
 
 ```js
